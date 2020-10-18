@@ -38,7 +38,8 @@ Siga os passos abaixo para executar este projeto Front-end (WEB):
     $ cd web
     ```
 
-2. Instale as dependências do projeto
+2. Instale as dependências do projeto<br>
+    _usando Yarn_
     ```bash
     $ yarn install
     ```
@@ -49,12 +50,11 @@ Siga os passos abaixo para executar este projeto Front-end (WEB):
     $ npm install
     ```
 
-3. Enfim, execute o projeto
+3. Enfim, execute o projeto<br>
+    _com Yarn_
     ```bash
     $ yarn start
     ```
-
-    <br>
 
     _com NPM_
     ```bash
