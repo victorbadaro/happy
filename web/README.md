@@ -52,7 +52,7 @@ Siga os passos abaixo para executar este projeto Front-end (WEB):
     $ yarn install
     ```
 
-    _Ou, se você está usando o NPM_
+    _Ou, se você estiver usando o NPM_
     ```bash
     $ npm install
     ```
