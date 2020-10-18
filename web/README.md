@@ -36,6 +36,8 @@ _Veja todas as dependências do projeto abrindo o arquivo package.json_
     ```bash
     $ git clone https://github.com/victorbadaro/happy.git
     ```
+
+    Este comando acima fará o download do projeto completo: API e Front-end (WEB e App Mobile)
 ## 💻 Como executar o projeto
 
 Siga os passos abaixo para executar este projeto Front-end (WEB):
