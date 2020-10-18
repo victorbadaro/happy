@@ -27,7 +27,7 @@ Este projeto Front-end foi desenvolvido utilizando as seguintes tecnologias:
 * [Expo](https://expo.io/)
 * [Axios](https://github.com/axios/axios)
 
-_Veja todas as dependências do projeto abrindo o arquivo package.json_
+_Veja todas as dependências do projeto abrindo o arquivo [package.json](./package.json)_
 <br>
 
 ## 🔽 Como fazer o download do projeto
