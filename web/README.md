@@ -77,4 +77,4 @@ http://localhost:3000
 ✅ Pronto! Se você seguiu corretamente os passos acima o projeto ja estará sendo executado localmente em tua máquina.
 
 ---
-<p align="center">Desenvolvido com ❤ por <a href="https://github.com/victorbadaro">VictorBadaró</a></p>
+<p align="center">Desenvolvido com ❤ por <a href="https://github.com/victorbadaro">Victor Badaró</a></p>
