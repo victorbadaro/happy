@@ -1,4 +1,4 @@
-# <img src="./src/images/logo.svg">
+# <img src="../logo.svg">
 
 <h1 align="center">
     <img src="./presentation.gif">
