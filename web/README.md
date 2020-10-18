@@ -5,6 +5,14 @@
 </h1>
 <br>
 
+## Índice
+
+* [Sobre](#-sobre)
+* [Tecnologias utilizadas](#-tecnologias-utilizadas)
+* [Como fazer o download do projeto](#-como-fazer-o-download-do-projeto)
+* [Como executar o projeto](#-Como-executar-o-projeto)
+<br>
+
 ## 🧾 Sobre
 
 Aplicação WEB para encontrar, através de geolocalização, **orfanatos** cadastrados na plataforma.
@@ -43,7 +51,6 @@ Siga os passos abaixo para executar este projeto Front-end (WEB):
     ```bash
     $ yarn install
     ```
-    <br>
 
     _Ou, se você está usando o NPM_
     ```bash
