@@ -24,7 +24,7 @@ export default {
         return res.json(orphanageView.render(orphanage));
     },
     async create(req: Request, res: Response) {
-        const { name,latitude,longitude,about,instructions,opening_hours, open_on_weekends } = req.body;
+        const { name, latitude, longitude, about, instructions, opening_hours, open_on_weekends } = req.body;
         const requestImages = req.files as Express.Multer.File[];
         const orphanagesRepository = getRepository(Orphanage);
         
