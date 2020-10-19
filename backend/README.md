@@ -6,7 +6,7 @@
 * [Sobre](#-sobre)
 * [Tecnologias utilizadas](#-tecnologias-utilizadas)
 * [Como fazer o download do projeto](#-como-fazer-o-download-do-projeto)
-* [Como executar o projeto](#-Como-executar-o-projeto)
+* [Como executar o projeto](#-como-executar-o-projeto)
 <br>
 
 ## 🧾 Sobre
