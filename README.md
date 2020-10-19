@@ -35,10 +35,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * [TypeORM](https://typeorm.io/#/)
 * [Yup](https://github.com/jquense/yup)
 
-_Veja todas as dependências do projeto abrindo os arquivos:<br>
-[./backend/package.json](./backend/package.json)_<br>
-[./web/package.json](./web/package.json)_<br>
-[./mobile/package.json](./mobile/package.json)_
+_Veja todas as dependências do projeto abrindo os arquivos:_<br>
+* [./backend/package.json](./backend/package.json)
+* [./web/package.json](./web/package.json)
+* [./mobile/package.json](./mobile/package.json)
 <br><br>
 
 ## 🔽 Como fazer o download do projeto
