@@ -38,6 +38,7 @@ _Veja todas as dependências do projeto abrindo o arquivo [package.json](./packa
     ```
 
     Este comando acima fará o download do projeto completo: [API](../backend) e Front-end ([WEB](../web) e [App Mobile](#))
+
 ## 💻 Como executar o projeto
 
 Siga os passos abaixo para executar este projeto Front-end (WEB):
@@ -75,7 +76,9 @@ Siga os passos abaixo para executar este projeto Front-end (WEB):
     $ expo start
     ```
 
-<br>
+4. Veja aqui como executar no celular (ou emulador) um projeto feito com expo<br>
+    * https://docs.expo.io/tutorial/planning/
+<br><br>
 
 ✅ Pronto! Se você seguiu corretamente os passos acima o projeto ja estará sendo executado localmente em tua máquina.
 
