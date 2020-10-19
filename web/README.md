@@ -38,6 +38,7 @@ _Veja todas as dependências do projeto abrindo o arquivo [package.json](./packa
     ```
 
     Este comando acima fará o download do projeto completo: [API](../backend) e Front-end ([WEB](#) e [App Mobile](../mobile))
+
 ## 💻 Como executar o projeto
 
 Siga os passos abaixo para executar este projeto Front-end (WEB):
