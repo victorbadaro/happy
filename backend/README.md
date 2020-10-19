@@ -11,7 +11,23 @@
 
 ## 🧾 Sobre
 
-API para , através de geolocalização, **orfanatos** cadastrados na plataforma.
+Esta é uma API REST para:<br>
+
+* Listar os orfanatos criados
+    ```bash
+    # GET
+    /orphanages
+    ```
+* Visualizar os dados de um determinado orfanato que já tenha sido cadastrado na plataforma
+    ```bash
+    # GET
+    /orphanages/:id
+    ```
+* Cadastrar orfanatos na aplicação
+    ```bash
+    # POST
+    /orphanages
+    ```
 <br>
 
 ## 🚀 Tecnologias utilizadas
@@ -40,7 +56,7 @@ _Veja todas as dependências do projeto abrindo o arquivo [package.json](./packa
 
 ## 💻 Como executar o projeto
 
-Siga os passos abaixo para executar este projeto Front-end (WEB):
+Siga os passos abaixo para executar este projeto Back-end:
 
 1. Entre no diretório do projeto
     ```bash
